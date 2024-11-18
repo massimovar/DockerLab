@@ -2,11 +2,6 @@
 
 This stack deploys a collection of Docker containers for managing and monitoring data, ideal for development and testing in IoT, analytics, and server administration.
 
-## Prerequisites
-
-- Linux with Docker and Docker Compose installed
-- Run install_docker.sh to set up Docker, Docker Compose, and Portainer if not installed
-
 ## Services
 
 1. Portainer:
